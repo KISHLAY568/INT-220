@@ -1,0 +1,1 @@
+writing using fwrite() functionwriting using fwrite() function
