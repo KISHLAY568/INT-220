@@ -1,7 +1,8 @@
 <html>
+<title> 4263b195 </title>
 
 <body>
-  <title>4263b195</title>
+
   <h1> Welcome to my guessing game</h1>
 
   <?php
